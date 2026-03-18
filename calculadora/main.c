@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){
+int main()
 {
     int a,b,c;
     float f,g,h;
@@ -25,7 +25,7 @@ int main(){
         switch (op2)
         {
         case 1:
-            c=a+b
+            c=a+b;
             break;
         case 2:
             c=a-b;
@@ -50,7 +50,7 @@ int main(){
         switch (op2)
         {
         case 1:
-            h=f+g
+            h=f+g;
             break;
         case 2:
             h=f-g;
